@@ -30,11 +30,7 @@ Run the application.
 $ ./bin/main
 ~~~
 
-Download [NodeJS web control](https://github.com/EdoLabWorks/NodeJS-Web-Control-Project) app and run it as a separate process.
-
-The two applications should communicate to each other using a simple TCP IPC (inter-process communication). 
-
 ### License
-MIT
+GNU General Public License v3.0
 
  
